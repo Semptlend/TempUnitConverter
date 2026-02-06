@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Munka\\Palko_Peter_12.c\\TempUnitConverter\\TempUnitConverter\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5D61ADE3-9A91-484D-8316-97028357889D}|TestUnit\\TestUnit.csproj|d:\\munka\\palko_peter_12.c\\tempunitconverter\\tempunitconverter\\testunit\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D61ADE3-9A91-484D-8316-97028357889D}|TestUnit\\TestUnit.csproj|solutionrelative:testunit\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A3354696-5225-4E3D-B02F-EE2FA1237B38}|TempUnitConverter\\TempUnitConverter.csproj|d:\\munka\\palko_peter_12.c\\tempunitconverter\\tempunitconverter\\tempunitconverter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3354696-5225-4E3D-B02F-EE2FA1237B38}|TempUnitConverter\\TempUnitConverter.csproj|solutionrelative:tempunitconverter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,25 +22,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Munka\\Palko_Peter_12.c\\TempUnitConverter\\TempUnitConverter\\TempUnitConverter\\Program.cs",
-              "RelativeDocumentMoniker": "TempUnitConverter\\Program.cs",
-              "ToolTip": "D:\\Munka\\Palko_Peter_12.c\\TempUnitConverter\\TempUnitConverter\\TempUnitConverter\\Program.cs",
-              "RelativeToolTip": "TempUnitConverter\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\Munka\\Palko_Peter_12.c\\TempUnitConverter\\TempUnitConverter\\TestUnit\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestUnit\\UnitTest1.cs",
+              "ToolTip": "D:\\Munka\\Palko_Peter_12.c\\TempUnitConverter\\TempUnitConverter\\TestUnit\\UnitTest1.cs",
+              "RelativeToolTip": "TestUnit\\UnitTest1.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCAAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-23T06:59:01.957Z",
-              "IsPinned": true,
+              "WhenOpened": "2026-02-02T09:58:27.672Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Converter.cs",
               "DocumentMoniker": "D:\\Munka\\Palko_Peter_12.c\\TempUnitConverter\\TempUnitConverter\\TempUnitConverter\\Converter.cs",
               "RelativeDocumentMoniker": "TempUnitConverter\\Converter.cs",
@@ -45,6 +48,40 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-23T07:11:49.102Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "f49e6c6c-3191-476c-836a-f0b4470e4dd0",
+        "Display": 0,
+        "X": 428,
+        "Y": 340,
+        "Width": 1907,
+        "Height": 792,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Munka\\Palko_Peter_12.c\\TempUnitConverter\\TempUnitConverter\\TempUnitConverter\\Program.cs",
+              "RelativeDocumentMoniker": "TempUnitConverter\\Program.cs",
+              "ToolTip": "D:\\Munka\\Palko_Peter_12.c\\TempUnitConverter\\TempUnitConverter\\TempUnitConverter\\Program.cs",
+              "RelativeToolTip": "TempUnitConverter\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T06:59:01.957Z",
               "EditorCaption": ""
             }
           ]

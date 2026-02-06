@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36915.13 d17.14
+VisualStudioVersion = 17.14.36915.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TempUnitConverter", "TempUnitConverter\TempUnitConverter.csproj", "{A3354696-5225-4E3D-B02F-EE2FA1237B38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestUnit", "TestUnit\TestUnit.csproj", "{5D61ADE3-9A91-484D-8316-97028357889D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{A3354696-5225-4E3D-B02F-EE2FA1237B38}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3354696-5225-4E3D-B02F-EE2FA1237B38}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3354696-5225-4E3D-B02F-EE2FA1237B38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D61ADE3-9A91-484D-8316-97028357889D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D61ADE3-9A91-484D-8316-97028357889D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D61ADE3-9A91-484D-8316-97028357889D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D61ADE3-9A91-484D-8316-97028357889D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
