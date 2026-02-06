@@ -12,3 +12,4 @@ D:\Munka\Palko_Peter_12.c\TempUnitConverter\TempUnitConverter\TempUnitConverter\
 D:\Munka\Palko_Peter_12.c\TempUnitConverter\TempUnitConverter\TempUnitConverter\obj\Debug\net9.0\TempUnitConverter.pdb
 D:\Munka\Palko_Peter_12.c\TempUnitConverter\TempUnitConverter\TempUnitConverter\obj\Debug\net9.0\TempUnitConverter.genruntimeconfig.cache
 D:\Munka\Palko_Peter_12.c\TempUnitConverter\TempUnitConverter\TempUnitConverter\obj\Debug\net9.0\ref\TempUnitConverter.dll
+D:\Munka\Palko_Peter_12.c\TempUnitConverter\TempUnitConverter\TempUnitConverter\obj\Debug\net9.0\TempUnitConverter.sourcelink.json
