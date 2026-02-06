@@ -35,4 +35,13 @@ public class UnitTest1
     {
         Assert.Equal(50, Math.Round(converter.KToF(283.15)));
     }
+    [Theory]
+    [InlineData(273.15, 0)]
+    [InlineData(283.15, 10)]
+    [InlineData(373.15, 100)]
+    public void CToKTestShouldReturnDoubles(double value1, double value2)
+    {
+        Assert.Equal(value1, converter.CToK(value2));
+    }
+
 }
