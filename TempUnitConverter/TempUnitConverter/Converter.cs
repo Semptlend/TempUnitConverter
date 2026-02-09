@@ -15,11 +15,17 @@ namespace TempUnitConverter
            Fahrenheit átváltása Kelvinbe: °K=((F+459,67)*5)/9
            Kelvin átváltás Fahrenheitbe: F=((°K*9)/5)-459,67
          */
+        //celsiusból kelvinbe
         public double CToK(double c) { return c + 273.15; }
+        //celsiusból fahrenheitbe
         public double CToF(double c) { return ((c * 9) / 5) + 32; }
+        //kelvinből celsiusba
         public double KToC(double k) { return k-273.15; }
+        //kelvinből fahrenheitbe
         public double KToF(double k) { return ((k * 9) / 5) - 459.67; }
+        //Fahrenheitből Celsiusba
         public double FToC(double f) { return ((f - 32) * 5) /9; }
+        //Fahrenheitből Kelvinbe
         public double FToK(double f) { return ((f + 459.67) * 5) / 9; }
     }
 }

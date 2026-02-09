@@ -4,7 +4,9 @@ using TempUnitConverter;
 using Xunit;
 public class UnitTest1
 {
+    //Függvény meghívása a teszt felületre
     Converter converter = new Converter();
+    //Fact tesztek
     [Fact]
     public void CToKTestShouldReturnDouble()
     {
@@ -35,6 +37,7 @@ public class UnitTest1
     {
         Assert.Equal(50, Math.Round(converter.KToF(283.15)));
     }
+    //Theory teszt
     [Theory]
     [InlineData(273.15, 0)]
     [InlineData(283.15, 10)]
