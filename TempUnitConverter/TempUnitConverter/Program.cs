@@ -17,10 +17,13 @@ namespace TempUnitConverter
          */
         static void Main(string[] args)
         {
+            //Az értékek melyekkel számolunk
             double c = 10;
             double k = 0;
             double f = 32;
+            //függvény meghívása
             Converter converter = new Converter();
+            //Számolás az adatokkal
             double kk = converter.CToK(c);
             Console.WriteLine("°C =" + kk + " °K");
             double ff = converter.CToF(c);
